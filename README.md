@@ -1,7 +1,7 @@
 # CSX_RProject_Summer_2018
 Data Science Programing
 # Introduce myself
-我是呂欣叡，第一次學習R語言
+我是旁聽生呂欣叡，第一次接觸並學習R語言
 # Progress Report
 ---
 # Week_1
